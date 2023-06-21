@@ -1,2 +1,3 @@
-const { eslint } = require('@packages/tools');
-module.exports = eslint;
+module.exports = {
+  extends: ['@packages/tools']
+};

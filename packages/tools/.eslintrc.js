@@ -1,6 +1,12 @@
+const fs = require('fs');
+const path = require('path');
+
+const tsConfig = fs.existsSync('tsconfig.json') ? path.resolve('tsconfig.json') : undefined;
+
 module.exports = {
   root: true,
   parserOptions: {
+    project: tsConfig,
     sourceType: 'module',
     ecmaVersion: 'latest',
     ecmaFeatures: { jsx: true }
@@ -86,12 +92,6 @@ module.exports = {
     'jsx-a11y/no-static-element-interactions': 'off'
   },
   overrides: [
-    {
-      files: ['*.ts', '*.tsx'],
-      parserOptions: {
-        project: './tsconfig.json'
-      }
-    },
     {
       files: ['*.js'],
       rules: {
