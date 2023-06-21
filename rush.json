@@ -10,7 +10,7 @@
   },
   "gitPolicy": {},
   "repository": {
-    "url": "https://github.com/michael-mir/rush-example"
+    "url": "https://github.com/michael-mir/rushjs-monorepo-example"
   },
   "ensureConsistentVersions": true,
   "eventHooks": {
