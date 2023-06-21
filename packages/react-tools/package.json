@@ -1,12 +1,11 @@
 {
-  "name": "tools",
   "private": true,
   "version": "0.1.0",
+  "name": "react-tools",
   "scripts": {
-    "stylelint": "stylelint \"public/**/*.css\"",
-    "lint": "eslint . --ext ts --ext tsx",
-    "format": "prettier --write \"**/*.{js,ts,tsx,html}\"",
-    "pretty": "yarn format && yarn lint --fix && yarn stylelint --fix"
+    "build": "",
+    "format": "prettier --write '*.js'",
+    "lint": "eslint . --ext js"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.55.0",
