@@ -4,71 +4,71 @@
   "packages": [
     {
       "name": "@packages/tools",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "@typescript-eslint/eslint-plugin",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "@typescript-eslint/parser",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "eslint",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "eslint-config-airbnb",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "eslint-config-airbnb-typescript",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "eslint-config-prettier",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "eslint-plugin-eslint-comments",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "eslint-plugin-import",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "eslint-plugin-jsx-a11y",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "eslint-plugin-prettier",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "eslint-plugin-promise",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "eslint-plugin-react",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "eslint-plugin-react-hooks",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "jest",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "jest-environment-jsdom",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "prettier",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "react-tools",
@@ -76,27 +76,27 @@
     },
     {
       "name": "stylelint",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "stylelint-config-prettier",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "stylelint-config-standard",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "stylelint-order",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "ts-jest",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     },
     {
       "name": "typescript",
-      "allowedCategories": [ "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published" ]
     }
   ]
 }
