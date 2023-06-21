@@ -13,10 +13,10 @@
   "variants": [],
   "projects": [
     {
-      "packageName": "tools",
-      "projectFolder": "packages/tools",
+      "packageName": "react-tools",
+      "projectFolder": "packages/react-tools",
       "reviewCategory": "tools",
-      "tags": ["tools"]
+      "tags": ["react-tools"]
     }
   ]
 }
