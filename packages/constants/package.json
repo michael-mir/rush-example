@@ -1,0 +1,14 @@
+{
+  "name": "constants",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "",
+    "lint": "eslint --ext ts",
+    "format": "prettier --write \"**/*.ts\""
+  },
+  "devDependencies": {
+    "react-tools": "workspace:^0.1.0",
+    "typescript": "^4.9.5"
+  }
+}
