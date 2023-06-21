@@ -1,7 +1,7 @@
 # rush-template
-Rush monorepo template
+Rush monorepo example
 
-## Rush
+## Rush commands
 
 ### Install the NPM packages:
 run `rush update`
@@ -20,14 +20,3 @@ run `rush publish`
 
 ### Deploying projects
 run `rush deploy`
-
-## Prettier
-
-### Install prettier so you can invoke it manually:
-npm install --global prettier
-
-### See what files Prettier will operate on; use this to tune your .prettierignore rules:
-prettier . --list-different
-
-### When you are ready, this will bulk fix all existing source files in your repo:
-prettier . --write
