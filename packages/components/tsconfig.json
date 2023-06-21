@@ -1,0 +1,5 @@
+{
+  "extends": "@tools/tsconfig/react.json",
+  "exclude": ["dist", "build", "node_modules"],
+  "include": ["**/*.ts", "**/*.tsx"]
+}
