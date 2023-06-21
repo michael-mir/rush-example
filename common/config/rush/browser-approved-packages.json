@@ -4,71 +4,71 @@
   "packages": [
     {
       "name": "@packages/tools",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "@typescript-eslint/eslint-plugin",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "@typescript-eslint/parser",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "eslint",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "eslint-config-airbnb",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "eslint-config-airbnb-typescript",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "eslint-config-prettier",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "eslint-plugin-eslint-comments",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "eslint-plugin-import",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "eslint-plugin-jsx-a11y",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "eslint-plugin-prettier",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "eslint-plugin-promise",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "eslint-plugin-react",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "eslint-plugin-react-hooks",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "jest",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "jest-environment-jsdom",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "prettier",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "react-tools",
@@ -76,27 +76,27 @@
     },
     {
       "name": "stylelint",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "stylelint-config-prettier",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "stylelint-config-standard",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "stylelint-order",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "ts-jest",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     },
     {
       "name": "typescript",
-      "allowedCategories": [ "production" ]
+      "allowedCategories": [ "production", "published" ]
     }
   ]
 }
