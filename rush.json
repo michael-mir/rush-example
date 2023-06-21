@@ -6,7 +6,10 @@
     "reviewCategories": ["production"]
   },
   "gitPolicy": {},
-  "repository": {},
+  "repository": {
+    "url": "https://github.com/michael-mir/rush-template"
+  },
+  "ensureConsistentVersions": true,
   "eventHooks": {
     "preRushInstall": [],
     "postRushInstall": [],
@@ -15,6 +18,12 @@
   },
   "variants": [],
   "projects": [
+    {
+      "packageName": "constants",
+      "projectFolder": "packages/constants",
+      "reviewCategory": "production",
+      "tags": ["constants"]
+    },
     {
       "packageName": "react-tools",
       "projectFolder": "packages/react-tools",

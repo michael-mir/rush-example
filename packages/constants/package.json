@@ -8,7 +8,7 @@
     "format": "prettier --write \"**/*.ts\""
   },
   "devDependencies": {
-    "react-tools": "workspace:^0.1.0",
+    "react-tools": "~0.1.0",
     "typescript": "^4.9.5"
   }
 }
