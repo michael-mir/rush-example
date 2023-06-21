@@ -1,5 +1,4 @@
-# rush-template
-Rush monorepo example
+# Rush monorepo example
 
 ## Rush commands
 
