@@ -1,0 +1,10 @@
+{
+  "name": "@tools/prettier",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "build": ""
+  }
+}

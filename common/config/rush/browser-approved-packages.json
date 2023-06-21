@@ -1,18 +1,22 @@
-// DO NOT ADD COMMENTS IN THIS FILE.  They will be lost when the Rush tool resaves it.
+// DO NOT ADD COMMENTS IN THIS FILE. They will be lost when the Rush tool resaves it.
 {
   "$schema": "https://developer.microsoft.com/json-schemas/rush/v5/approved-packages.schema.json",
   "packages": [
     {
-      "name": "@packages/tools",
-      "allowedCategories": [ "packages", "production", "published" ]
+      "name": "@tools/eslint",
+      "allowedCategories": [ "packages" ]
+    },
+    {
+      "name": "@tools/tsconfig",
+      "allowedCategories": [ "packages" ]
     },
     {
       "name": "@typescript-eslint/eslint-plugin",
-      "allowedCategories": [ "packages", "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published", "tools" ]
     },
     {
       "name": "@typescript-eslint/parser",
-      "allowedCategories": [ "packages", "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published", "tools" ]
     },
     {
       "name": "eslint",
@@ -20,43 +24,43 @@
     },
     {
       "name": "eslint-config-airbnb",
-      "allowedCategories": [ "packages", "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published", "tools" ]
     },
     {
       "name": "eslint-config-airbnb-typescript",
-      "allowedCategories": [ "packages", "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published", "tools" ]
     },
     {
       "name": "eslint-config-prettier",
-      "allowedCategories": [ "packages", "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published", "tools" ]
     },
     {
       "name": "eslint-plugin-eslint-comments",
-      "allowedCategories": [ "packages", "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published", "tools" ]
     },
     {
       "name": "eslint-plugin-import",
-      "allowedCategories": [ "packages", "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published", "tools" ]
     },
     {
       "name": "eslint-plugin-jsx-a11y",
-      "allowedCategories": [ "packages", "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published", "tools" ]
     },
     {
       "name": "eslint-plugin-prettier",
-      "allowedCategories": [ "packages", "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published", "tools" ]
     },
     {
       "name": "eslint-plugin-promise",
-      "allowedCategories": [ "packages", "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published", "tools" ]
     },
     {
       "name": "eslint-plugin-react",
-      "allowedCategories": [ "packages", "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published", "tools" ]
     },
     {
       "name": "eslint-plugin-react-hooks",
-      "allowedCategories": [ "packages", "production", "published" ]
+      "allowedCategories": [ "packages", "production", "published", "tools" ]
     },
     {
       "name": "jest",
@@ -69,6 +73,10 @@
     {
       "name": "prettier",
       "allowedCategories": [ "packages", "production", "published" ]
+    },
+    {
+      "name": "react",
+      "allowedCategories": [ "packages" ]
     },
     {
       "name": "react-tools",

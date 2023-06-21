@@ -6,7 +6,6 @@ const tsConfig = fs.existsSync('tsconfig.json') ? path.resolve('tsconfig.json') 
 module.exports = {
   root: true,
   parserOptions: {
-    project: tsConfig,
     sourceType: 'module',
     ecmaVersion: 'latest',
     ecmaFeatures: { jsx: true }
@@ -21,6 +20,14 @@ module.exports = {
     'plugin:eslint-comments/recommended',
     'plugin:promise/recommended',
     'plugin:prettier/recommended'
+  ],
+  overrides: [
+    {
+      files: ['*.ts', '*.tsx'],
+      parserOptions: {
+        project: tsConfig
+      }
+    }
   ],
   rules: {
     '@typescript-eslint/no-shadow': 'warn',
@@ -90,15 +97,5 @@ module.exports = {
     'jsx-a11y/label-has-associated-control': 'off',
     'jsx-a11y/click-events-have-key-events': 'off',
     'jsx-a11y/no-static-element-interactions': 'off'
-  },
-  overrides: [
-    {
-      files: ['*.js'],
-      rules: {
-        '@typescript-eslint/no-unsafe-assignment': 'off',
-        '@typescript-eslint/no-unsafe-call': 'off',
-        '@typescript-eslint/no-var-requires': 'off'
-      }
-    }
-  ]
+  }
 };

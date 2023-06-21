@@ -5,7 +5,7 @@
   "projectFolderMinDepth": 2,
   "projectFolderMaxDepth": 3,
   "approvedPackagesPolicy": {
-    "reviewCategories": ["packages", "internal"],
+    "reviewCategories": ["packages", "tools"],
     "ignoredNpmScopes": ["@types"]
   },
   "gitPolicy": {},
@@ -22,16 +22,24 @@
   "variants": [],
   "projects": [
     {
-      "packageName": "@packages/constants",
-      "projectFolder": "packages/constants",
-      "reviewCategory": "packages",
-      "tags": ["@packages/constants"]
+      "packageName": "@packages/components",
+      "projectFolder": "packages/components",
+      "reviewCategory": "packages"
     },
     {
-      "packageName": "@packages/tools",
-      "projectFolder": "packages/tools",
-      "reviewCategory": "packages",
-      "tags": ["@packages/tools"]
+      "packageName": "@tools/eslint",
+      "projectFolder": "tools/eslint",
+      "reviewCategory": "tools"
+    },
+    {
+      "packageName": "@tools/prettier",
+      "projectFolder": "tools/prettier",
+      "reviewCategory": "tools"
+    },
+    {
+      "packageName": "@tools/tsconfig",
+      "projectFolder": "tools/tsconfig",
+      "reviewCategory": "tools"
     }
   ]
 }
