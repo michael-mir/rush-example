@@ -568,6 +568,12 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@rush-temp/constants@file:./projects/constants.tgz":
+  version "0.0.0"
+  resolved "file:./projects/constants.tgz#ffb5388d7fdef3d30b4d63c825b0c9429c190604"
+  dependencies:
+    typescript "^4.9.5"
+
 "@rush-temp/react-tools@file:./projects/react-tools.tgz":
   version "0.0.0"
   resolved "file:./projects/react-tools.tgz#74a4bb0b73252b7f148272b4779c04445b319aba"
@@ -3750,6 +3756,10 @@ typed-array-length@^1.0.4:
     call-bind "^1.0.2"
     for-each "^0.3.3"
     is-typed-array "^1.1.9"
+
+typescript@^4.9.5:
+  version "4.9.5"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.9.5.tgz#095979f9bcc0d09da324d58d03ce8f8374cbe65a"
 
 unbox-primitive@^1.0.2:
   version "1.0.2"
