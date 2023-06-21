@@ -19,16 +19,16 @@
   "variants": [],
   "projects": [
     {
-      "packageName": "constants",
+      "packageName": "@packages/constants",
       "projectFolder": "packages/constants",
       "reviewCategory": "production",
-      "tags": ["constants"]
+      "tags": ["@packages/constants"]
     },
     {
-      "packageName": "react-tools",
-      "projectFolder": "packages/react-tools",
+      "packageName": "@packages/tools",
+      "projectFolder": "packages/tools",
       "reviewCategory": "production",
-      "tags": ["react-tools"]
+      "tags": ["@packages/tools"]
     }
   ]
 }
