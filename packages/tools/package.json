@@ -1,6 +1,7 @@
 {
   "name": "tools",
   "private": true,
+  "version": "0.1.0",
   "scripts": {
     "stylelint": "stylelint \"public/**/*.css\"",
     "lint": "eslint . --ext ts --ext tsx",
