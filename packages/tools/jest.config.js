@@ -5,5 +5,5 @@ module.exports = {
   collectCoverage: true,
   coverageDirectory: 'coverage',
   testEnvironment: 'jest-environment-jsdom',
-  testMatch: ['**/?(*.)test.[jt]s?(x)'],
+  testMatch: ['**/?(*.)test.[jt]s?(x)']
 };

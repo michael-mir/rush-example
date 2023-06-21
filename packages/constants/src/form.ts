@@ -8,7 +8,7 @@ export const MASK = {
   EXPIRATION_DATE: '** / **',
   EXPIRATION_DATE_CHAR_PLACEHOLDER: '_',
   CVV: '999'
-}
+};
 
 export const MIN_VALUES = {
   AGE: 18,
@@ -18,8 +18,7 @@ export const MIN_VALUES = {
 
 export const MAX_VALUES = {
   AGE: 75,
-  INCOME: 999999999,
-
+  INCOME: 999999999
 } as const;
 
 export const MIN_LENGTH = {
@@ -32,7 +31,7 @@ export const MIN_LENGTH = {
   BIN: 6,
   PAN: 16,
   EXPIRATION_DATE: 4,
-  CVV: 3,
+  CVV: 3
 } as const;
 
 export const MAX_LENGTH = {
@@ -43,10 +42,9 @@ export const MAX_LENGTH = {
   BIN: 9,
   PAN: 19,
   EXPIRATION_DATE: 4,
-  CVV: 3,
+  CVV: 3
 } as const;
 
 export const MIN_DATE = new Date('1900-01-01T00:00:00.000');
 
 export const OTP_LENGTH = 6;
-

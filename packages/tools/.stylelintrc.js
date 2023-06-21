@@ -1,8 +1,8 @@
 module.exports = {
-  'extends': ['stylelint-config-standard', 'stylelint-config-prettier'],
-  'plugins': ['stylelint-order'],
-  'rules': {
-    'indentation': 2,
+  extends: ['stylelint-config-standard', 'stylelint-config-prettier'],
+  plugins: ['stylelint-order'],
+  rules: {
+    indentation: 2,
     'string-quotes': 'single',
     'color-named': 'never',
     'color-hex-case': 'lower',
@@ -30,4 +30,4 @@ module.exports = {
     'media-feature-colon-space-before': 'never',
     'order/properties-alphabetical-order': true
   }
-}
+};
