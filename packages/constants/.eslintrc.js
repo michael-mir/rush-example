@@ -1,2 +1,2 @@
-const { eslint } = require('react-tools')
+const { eslint } = require('@packages/tools')
 module.exports = eslint

@@ -1,2 +1,2 @@
-const { prettier } = require('react-tools')
+const { prettier } = require('@packages/tools')
 module.exports = prettier
