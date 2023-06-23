@@ -1,13 +1,16 @@
 {
-  "name": "@tools/tsconfig",
+  "name": "@michael-mir/tools/tsconfig",
   "files": [
     "base.json",
     "nextjs.json",
     "react.json"
   ],
-  "version": "0.0.2",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "build": ""
+  },
+  "repository": {
+    "url": "https://github.com/michael-mir/rushjs-monorepo-example"
   }
 }

@@ -1,12 +1,15 @@
 {
-  "name": "@packages/components",
-  "version": "0.0.2",
+  "name": "@michael-mir/packages/components",
+  "version": "0.0.1",
   "main": "./index.tsx",
   "types": "./index.tsx",
   "license": "MIT",
   "scripts": {
     "build": "",
     "lint": "eslint \"**/*.{ts,tsx}\""
+  },
+  "repository": {
+    "url": "https://github.com/michael-mir/rushjs-monorepo-example"
   },
   "devDependencies": {
     "@tools/eslint": "*",

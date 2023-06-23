@@ -1,9 +1,12 @@
 {
-  "name": "@tools/prettier",
-  "version": "0.0.2",
+  "name": "@michael-mir/tools/prettier",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
     "build": ""
+  },
+  "repository": {
+    "url": "https://github.com/michael-mir/rushjs-monorepo-example"
   }
 }

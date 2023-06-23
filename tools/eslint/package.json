@@ -1,10 +1,13 @@
 {
-  "name": "@tools/eslint",
-  "version": "0.0.3",
+  "name": "@michael-mir/tools/eslint",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
     "build": ""
+  },
+  "repository": {
+    "url": "https://github.com/michael-mir/rushjs-monorepo-example"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.55.0",
