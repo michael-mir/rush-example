@@ -12,8 +12,8 @@
     "url": "https://github.com/michael-mir/rushjs-monorepo-example"
   },
   "devDependencies": {
-    "@tools/eslint": "*",
-    "@tools/tsconfig": "*",
+    "@michael-mir/tools/eslint": "*",
+    "@michael-mir/tools/tsconfig": "*",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
     "@typescript-eslint/eslint-plugin": "^5.55.0",
