@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@packages/components",
+      "comment": "Initialization",
+      "type": "none"
+    }
+  ],
+  "packageName": "@packages/components"
+}
