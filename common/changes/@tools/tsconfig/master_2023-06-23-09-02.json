@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@tools/tsconfig",
+      "comment": "",
+      "type": "none"
+    }
+  ],
+  "packageName": "@tools/tsconfig"
+}

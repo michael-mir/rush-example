@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@tools/eslint",
+      "comment": "",
+      "type": "none"
+    }
+  ],
+  "packageName": "@tools/eslint"
+}

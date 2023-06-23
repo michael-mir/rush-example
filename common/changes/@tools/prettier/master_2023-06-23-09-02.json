@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@tools/prettier",
+      "comment": "",
+      "type": "none"
+    }
+  ],
+  "packageName": "@tools/prettier"
+}
