@@ -1,6 +1,6 @@
 {
-  "private": true,
   "name": "rushjs-monorepo-example",
+  "private": true,
   "workspaces": [
     "packages/*",
     "tools/*"
