@@ -1,7 +1,6 @@
 {
   "name": "@tools/eslint",
   "version": "0.1.0",
-  "private": true,
   "license": "MIT",
   "main": "index.js",
   "scripts": {
