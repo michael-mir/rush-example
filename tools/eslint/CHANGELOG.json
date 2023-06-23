@@ -2,6 +2,18 @@
   "name": "@michael-mir/tools-eslint",
   "entries": [
     {
+      "version": "0.0.4",
+      "tag": "@michael-mir/tools-eslint_v0.0.4",
+      "date": "Fri, 23 Jun 2023 14:20:41 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "update"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.0.3",
       "tag": "@michael-mir/tools-eslint_v0.0.3",
       "date": "Fri, 23 Jun 2023 12:19:29 GMT",

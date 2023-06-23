@@ -1,6 +1,13 @@
 # Change Log - @michael-mir/tools-eslint
 
-This log was last generated on Fri, 23 Jun 2023 12:19:29 GMT and should not be manually modified.
+This log was last generated on Fri, 23 Jun 2023 14:20:41 GMT and should not be manually modified.
+
+## 0.0.4
+Fri, 23 Jun 2023 14:20:41 GMT
+
+### Patches
+
+- update
 
 ## 0.0.3
 Fri, 23 Jun 2023 12:19:29 GMT
