@@ -2,6 +2,26 @@
   "name": "@michael-mir/packages-components",
   "entries": [
     {
+      "version": "0.0.3",
+      "tag": "@michael-mir/packages-components_v0.0.3",
+      "date": "Fri, 23 Jun 2023 12:19:29 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "init"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@michael-mir/tools-eslint\" from `*` to `*`"
+          },
+          {
+            "comment": "Updating dependency \"@michael-mir/tools-tsconfig\" from `*` to `*`"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.0.2",
       "tag": "@michael-mir/packages-components_v0.0.2",
       "date": "Fri, 23 Jun 2023 12:06:56 GMT",
