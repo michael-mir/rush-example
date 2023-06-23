@@ -70,9 +70,9 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@rush-temp/components@file:./projects/components.tgz":
+"@rush-temp/packages-components@file:./projects/packages-components.tgz":
   version "0.0.0"
-  resolved "file:./projects/components.tgz#b6d580971564d956b861a8f9202b9b15a1fc202c"
+  resolved "file:./projects/packages-components.tgz#a663ddb27811380ceef1d1dba85243c1b110c08e"
   dependencies:
     "@types/react" "^18.2.0"
     "@types/react-dom" "^18.2.0"
@@ -92,9 +92,9 @@
     react "^18.2.0"
     typescript "^4.9.5"
 
-"@rush-temp/eslint@file:./projects/eslint.tgz":
+"@rush-temp/tools-eslint@file:./projects/tools-eslint.tgz":
   version "0.0.0"
-  resolved "file:./projects/eslint.tgz#62c7cdff6afe54797716c251d835799b468e994e"
+  resolved "file:./projects/tools-eslint.tgz#cad0bb0b8764e90502edd26a9b436e58050d34b1"
   dependencies:
     "@typescript-eslint/eslint-plugin" "^5.55.0"
     "@typescript-eslint/parser" "^5.55.0"
@@ -109,13 +109,13 @@
     eslint-plugin-react "^7.32.2"
     eslint-plugin-react-hooks "^4.6.0"
 
-"@rush-temp/prettier@file:./projects/prettier.tgz":
+"@rush-temp/tools-prettier@file:./projects/tools-prettier.tgz":
   version "0.0.0"
-  resolved "file:./projects/prettier.tgz#40943f35b36bdf7a0f71ecdde270e821285d191a"
+  resolved "file:./projects/tools-prettier.tgz#874a7fe817a36a55928bb69e4cc0f35cbc750140"
 
-"@rush-temp/tsconfig@file:./projects/tsconfig.tgz":
+"@rush-temp/tools-tsconfig@file:./projects/tools-tsconfig.tgz":
   version "0.0.0"
-  resolved "file:./projects/tsconfig.tgz#2da8490ce77139663c9fda146cfc5999e74c0bf4"
+  resolved "file:./projects/tools-tsconfig.tgz#a71b88ea777e1093a3487baabd8af689dadf62e4"
 
 "@types/json-schema@^7.0.9":
   version "7.0.12"

@@ -1,7 +1,15 @@
-// DO NOT ADD COMMENTS IN THIS FILE. They will be lost when the Rush tool resaves it.
+// DO NOT ADD COMMENTS IN THIS FILE.  They will be lost when the Rush tool resaves it.
 {
   "$schema": "https://developer.microsoft.com/json-schemas/rush/v5/approved-packages.schema.json",
   "packages": [
+    {
+      "name": "@michael-mir/tools-eslint",
+      "allowedCategories": [ "packages" ]
+    },
+    {
+      "name": "@michael-mir/tools-tsconfig",
+      "allowedCategories": [ "packages" ]
+    },
     {
       "name": "@tools/eslint",
       "allowedCategories": [ "packages" ]
