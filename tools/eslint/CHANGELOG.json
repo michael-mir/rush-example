@@ -2,6 +2,18 @@
   "name": "@tools/eslint",
   "entries": [
     {
+      "version": "0.0.3",
+      "tag": "@tools/eslint_v0.0.3",
+      "date": "Fri, 23 Jun 2023 09:56:30 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Test"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.0.2",
       "tag": "@tools/eslint_v0.0.2",
       "date": "Fri, 23 Jun 2023 08:46:55 GMT",
