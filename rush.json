@@ -24,25 +24,25 @@
   "variants": [],
   "projects": [
     {
-      "packageName": "@michael-mir/packages/components",
+      "packageName": "@michael-mir/packages-components",
       "projectFolder": "packages/components",
       "reviewCategory": "packages",
       "shouldPublish": true
     },
     {
-      "packageName": "@michael-mir/tools/eslint",
+      "packageName": "@michael-mir/tools-eslint",
       "projectFolder": "tools/eslint",
       "reviewCategory": "tools",
       "shouldPublish": true
     },
     {
-      "packageName": "@michael-mir/tools/prettier",
+      "packageName": "@michael-mir/tools-prettier",
       "projectFolder": "tools/prettier",
       "reviewCategory": "tools",
       "shouldPublish": true
     },
     {
-      "packageName": "@michael-mir/tools/tsconfig",
+      "packageName": "@michael-mir/tools-tsconfig",
       "projectFolder": "tools/tsconfig",
       "reviewCategory": "tools",
       "shouldPublish": true

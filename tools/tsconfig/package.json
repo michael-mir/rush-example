@@ -1,5 +1,5 @@
 {
-  "name": "@michael-mir/tools/tsconfig",
+  "name": "@michael-mir/tools-tsconfig",
   "files": [
     "base.json",
     "nextjs.json",
