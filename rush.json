@@ -11,7 +11,8 @@
   },
   "gitPolicy": {},
   "repository": {
-    "url": "https://github.com/michael-mir/rushjs-monorepo-example"
+    "url": "https://github.com/michael-mir/rushjs-monorepo-example",
+    "defaultBranch": "master"
   },
   "ensureConsistentVersions": true,
   "eventHooks": {
