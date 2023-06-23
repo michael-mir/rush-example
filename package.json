@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "rushjs-monorepo-example",
+  "workspaces": [
+    "packages/*",
+    "tools/*"
+  ]
+}
