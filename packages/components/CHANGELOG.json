@@ -1,0 +1,17 @@
+{
+  "name": "@packages/components",
+  "entries": [
+    {
+      "version": "0.1.0",
+      "tag": "@packages/components_v0.1.0",
+      "date": "Fri, 23 Jun 2023 08:35:10 GMT",
+      "comments": {
+        "none": [
+          {
+            "comment": "Initialization"
+          }
+        ]
+      }
+    }
+  ]
+}
