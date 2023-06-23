@@ -91,7 +91,7 @@ module.exports = {
       { namedComponents: ['arrow-function'], unnamedComponents: 'arrow-function' }
     ],
     'react-hooks/exhaustive-deps': 'warn',
-    'prettier/prettier': 'warn',
+    'prettier/prettier': 'off',
     'eslint-comments/no-unlimited-disable': 'warn',
     'eslint-comments/disable-enable-pair': ['error', { allowWholeFile: true }],
     'jsx-a11y/label-has-associated-control': 'off',

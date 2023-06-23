@@ -1,21 +1,43 @@
 # Rush monorepo example
 
+## First of all, install Rush globally:
+```
+npm install -g @microsoft/rush
+```
+
 ## Rush commands
 
-### Install the NPM packages:
-run `rush update`
+### Install package dependencies:
+```
+rush update
+```
 
-### Force all projects to be rebuilt:
-run `rush rebuild`
+### Modifying package.json:
+```
+rush add/remove --package {package}
+```
 
-### Incremental build:
-run `rush build`
+### Incremental build of changes:
+```
+rush build
+```
 
-### Generates change files:
-run `rush change`
+### Clean rebuild of everything:
+```
+rush rebuild
+```
+
+### Generate change files:
+```
+rush change
+```
+
+### Packages versioning
+```
+rush version
+```
 
 ### Publish packages
-run `rush publish`
-
-### Deploying projects
-run `rush deploy`
+```
+rush publish -a -b {branch} -p -r=https://npm.pkg.github.com/
+```
