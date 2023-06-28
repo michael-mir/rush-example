@@ -1,0 +1,17 @@
+{
+  "name": "@michael-mir/tools-eslint",
+  "entries": [
+    {
+      "version": "0.0.7",
+      "tag": "@michael-mir/tools-eslint_v0.0.7",
+      "date": "Wed, 28 Jun 2023 06:55:12 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "upd"
+          }
+        ]
+      }
+    }
+  ]
+}
