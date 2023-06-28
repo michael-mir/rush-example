@@ -5,13 +5,10 @@
     "nextjs.json",
     "react.json"
   ],
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "MIT",
   "scripts": {
     "build": ""
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "url": "https://github.com/michael-mir/rushjs-monorepo-example"

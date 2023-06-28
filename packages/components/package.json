@@ -1,15 +1,12 @@
 {
   "name": "@michael-mir/packages-components",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "./index.tsx",
   "types": "./index.tsx",
   "license": "MIT",
   "scripts": {
     "build": "",
     "lint": "eslint \"**/*.{ts,tsx}\""
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "url": "https://github.com/michael-mir/rushjs-monorepo-example"
