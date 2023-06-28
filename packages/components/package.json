@@ -8,6 +8,9 @@
     "build": "",
     "lint": "eslint \"**/*.{ts,tsx}\""
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "url": "https://github.com/michael-mir/rushjs-monorepo-example"
   },

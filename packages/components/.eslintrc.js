@@ -1,3 +1,3 @@
-const eslint = require('@tools/eslint');
+const eslint = require('@michael-mir/tools-eslint');
 
 module.exports = eslint;
