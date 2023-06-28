@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@michael-mir/packages-components",
+      "comment": "tsconfig upd",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@michael-mir/packages-components"
+}

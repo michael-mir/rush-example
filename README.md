@@ -39,5 +39,5 @@ rush version
 
 ### Publish packages
 ```
-rush publish -a -b {branch} -p -r=https://npm.pkg.github.com/
+rush publish --apply --target-branch {branch} --publish --registry https://npm.pkg.github.com/
 ```

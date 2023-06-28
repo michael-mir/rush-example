@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@michael-mir/tools-prettier",
+      "comment": "upd",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@michael-mir/tools-prettier"
+}
